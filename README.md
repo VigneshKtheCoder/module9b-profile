@@ -13,3 +13,4 @@ Some issues I faced were trying to figure out the code for the dark mode and lig
 
 ## Screenshot
 Include a screenshot of your component.
+<img width="1352" height="597" alt="Screenshot 2025-07-26 013344" src="https://github.com/user-attachments/assets/b9548752-e44e-4534-b0d7-c46a8e5b68c5" />
